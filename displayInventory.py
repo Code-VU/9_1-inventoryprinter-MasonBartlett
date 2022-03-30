@@ -7,4 +7,4 @@ def displayInventory(inventory):
 
     # your code goes here
 
-displayInventory(stuff)
+#displayInventory(stuff)
